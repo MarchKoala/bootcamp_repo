@@ -1,2 +1,2 @@
 # bootcamp_repo
-Boot campで作ったリポジトリ
+Boot campで作ったリポジトリです。
